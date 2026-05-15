@@ -1,11 +1,11 @@
-# 🎓 Student Result Management API
+# Student Result Management API
 
 A beginner-friendly REST API built with **Node.js + Express** to manage student results.  
 No database needed — data lives in memory while the server runs.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 student-result-api/
@@ -36,7 +36,7 @@ student-result-api/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Install dependencies
 ```bash
@@ -129,7 +129,7 @@ http://localhost:3000
 
 ---
 
-## 🏆 Grade Scale
+## Grade Scale
 
 | Grade | Percentage  |
 |-------|-------------|
@@ -142,22 +142,4 @@ http://localhost:3000
 | F     | Below 40%   |
 
 ---
-
-## 💡 Concepts You'll Learn
-
-- **REST API** — standard way to build web APIs
-- **Express Router** — organizing routes cleanly
-- **MVC Pattern** — Model / View / Controller separation
-- **Middleware** — functions that run between request and response
-- **HTTP Status Codes** — 200 OK, 201 Created, 400 Bad Request, 404 Not Found, etc.
-- **JSON** — the data format used in APIs
-
----
-
-## 🔮 Next Steps (to level up!)
-
-1. **Add a real database** — try MongoDB with Mongoose, or SQLite
-2. **Add authentication** — use JWT tokens so only logged-in users can access data
-3. **Input validation** — use the `joi` or `express-validator` package
-4. **Environment variables** — store PORT and secrets in a `.env` file using `dotenv`
 5. **Deploy it** — try Railway, Render, or Heroku (all free tiers available)
