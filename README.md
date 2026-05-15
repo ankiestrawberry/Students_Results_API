@@ -142,4 +142,3 @@ http://localhost:3000
 | F     | Below 40%   |
 
 ---
-5. **Deploy it** — try Railway, Render, or Heroku (all free tiers available)
